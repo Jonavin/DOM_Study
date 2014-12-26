@@ -1,5 +1,5 @@
    
-        //显示事件对象详细信息
+   //显示事件对象详细信息
     function showEventInfo(e){
       console.dir(e);
       console.log(e.timeStamp);
